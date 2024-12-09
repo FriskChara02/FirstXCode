@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  ButtonChangeColor
 //
-//  Created by Loi Nguyen on 9/12/24.
-//
 
 import UIKit
 
